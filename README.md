@@ -2,7 +2,7 @@
 
 The Task Manager API is a simple API built using Go and Gin. It provides endpoints to manage tasks with in-memory storage.
 
-## Instalation
+## Installation
 
 To run the Task Manager API locally, follow these steps:
 
